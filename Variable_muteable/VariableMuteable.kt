@@ -4,7 +4,7 @@ fun main() {
 	var jurusan = "RPL"
     
 println("-----------------")
-println(" Biodata Singkat: ")
+println("Biodata Singkat: ")
 println("Nama : $nama")
 println("Usia : $usia")
 println("Jurusan : $jurusan")
